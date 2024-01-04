@@ -1,20 +1,20 @@
 {
-  "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "LiveTerm",
-  "name": "John Doe",
-  "ascii": "liveterm",
+  "readmeUrl": "https://github.com/severnaa/HomePage/blob/main/README.md",
+  "title": "HomePage",
+  "name": "Severn Anderson",
+  "ascii": "severn",
   "social": {
-    "github": "github",
-    "linkedin": "linkedin"
+    "github": "severnaa",
+    "linkedin": "severn-anderson"
   },
-  "email": "contact@email.com",
-  "ps1_hostname": "liveterm",
+  "email": "severnaanderson@gmail.com",
+  "ps1_hostname": "Severn",
   "ps1_username": "visitor",
-  "repo": "https://github.com/Cveinnt/LiveTerm",
-  "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
+  "repo": "https://github.com/severnaa/HomePage",
+  "resume_url": "https://drive.google.com/file/d/1Qu6z4RJuAtzVqweujcVIio4XH03kb6bO/view?usp=sharing",
   "donate_urls": {
-    "paypal": "https://paypal.me/cveinnt",
-    "patreon": "https://patreon.com/cveinnt"
+    "aclu": "https://action.aclu.org/give/now?redirect=node/65102",
+    "doctorsWoBorders": "https://donate.doctorswithoutborders.org/"
   },
   "colors": {
     "light": {

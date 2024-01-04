@@ -1,5 +1,5 @@
 {
-  "name": "liveterm",
+  "name": "hompePage",
   "version": "0.1.0",
   "license": "MIT",
   "author": {
@@ -14,12 +14,16 @@
     "lint": "next lint",
     "prepare": "husky install"
   },
+  "resolutions": {
+    "@types/react": "^17.0.38"
+  },
   "dependencies": {
-    "axios": "^0.27.2",
-    "next": "12.1.6",
+    "axios": "^1.6.2",
+    "next": "^14.0.2",
     "react": "18.1.0",
     "react-dom": "18.1.0",
-    "react-icons": "^4.3.1"
+    "react-icons": "^4.3.1",
+    "yarn": "^1.22.21"
   },
   "devDependencies": {
     "@types/node": "17.0.32",
