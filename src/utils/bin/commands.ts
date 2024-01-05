@@ -101,7 +101,7 @@ export const whoami = async (args: string[]): Promise<string> => {
 };
 
 export const ls = async (args: string[]): Promise<string> => {
-  if (args[0] == "-a") {
+  if (args[0] == '-a') {
     return `.
 ..
 .git
@@ -111,7 +111,7 @@ desktop
 projects
 nuclear_secrets
 passwords
-    `
+    `;
   }
   return `desktop
 projects

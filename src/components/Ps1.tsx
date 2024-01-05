@@ -14,6 +14,6 @@ export function Ps1() {
       <span className="text-light-gray dark:text-dark-gray">:$ ~ </span>
     </div>
   );
-};
+}
 
 export default Ps1;

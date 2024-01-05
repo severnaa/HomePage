@@ -10,7 +10,7 @@ export const projects = async (args: string[]): Promise<string> => {
 Progress Blue-Collar - <a class="text-light-blue dark:text-dark-blue underline" href="https://www.progressbluecollar.com/" target="_blank">https://www.progressbluecollar.com/</a>
 Coffe Index - Under Construction
 Open Source 'everything' clone - Under Construction
-    `
+`;
 
 };
 
@@ -22,7 +22,7 @@ export const quote = async (args: string[]): Promise<string> => {
 export const funFact = async (args: string[]): Promise<string> => {
   const data = await getFunFact();
   return data.text;
-}
+};
 
 export const readme = async (args: string[]): Promise<string> => {
   const readme = await getReadme();
