@@ -21,3 +21,8 @@ export const getQuote = async () => {
     quote: `“${data.content}” — ${data.author}`,
   };
 };
+
+export const getFunFact = async () => {
+  const { data } = await axios.get('https://uselessfacts.jsph.pl/api/v2/facts/random')
+  return data
+}
