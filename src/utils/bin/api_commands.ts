@@ -11,7 +11,6 @@ Progress Blue-Collar - <a class="text-light-blue dark:text-dark-blue underline" 
 Coffe Index - Under Construction
 Open Source 'everything' clone - Under Construction
 `;
-
 };
 
 export const quote = async (args: string[]): Promise<string> => {

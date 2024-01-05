@@ -19,6 +19,6 @@ const sumfetch = async (args: string[]): Promise<string> => {
             ▀▓▓▓▓▓▓▓▓▓▓▓▀▀                   <u><a href="${config.donate_urls.doctorsWoBorders}" target="_blank">Doctors Without Borders</a></u>
 
 `;
-}
+};
 
 export default sumfetch;
