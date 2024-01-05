@@ -8,7 +8,7 @@ import { getFunFact } from '../api';
 export const projects = async (args: string[]): Promise<string> => {
   return `
 Progress Blue-Collar - <a class="text-light-blue dark:text-dark-blue underline" href="https://www.progressbluecollar.com/" target="_blank">https://www.progressbluecollar.com/</a>
-Coffe Index - Under Construction
+Coffee Index - Under Construction
 Open Source 'everything' clone - Under Construction
 `;
 };
