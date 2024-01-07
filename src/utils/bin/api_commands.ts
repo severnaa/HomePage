@@ -18,7 +18,7 @@ export const quote = async (args: string[]): Promise<string> => {
   return data.quote;
 };
 
-export const funFact = async (args: string[]): Promise<string> => {
+export const funfact = async (args: string[]): Promise<string> => {
   const data = await getFunFact();
   return data.text;
 };
