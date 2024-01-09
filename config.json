@@ -11,7 +11,7 @@
   "ps1_hostname": "Severn",
   "ps1_username": "visitor",
   "repo": "https://github.com/severnaa/HomePage",
-  "resume_url": "https://drive.google.com/file/d/1Qu6z4RJuAtzVqweujcVIio4XH03kb6bO/view?usp=sharing",
+  "resume_url": "https://s3.amazonaws.com/severnhomepage/Severn%20Anderson%20-%20Resume%20-%20Jan%202024.pdf",
   "donate_urls": {
     "aclu": "https://action.aclu.org/give/now?redirect=node/65102",
     "doctorsWoBorders": "https://donate.doctorswithoutborders.org/"
