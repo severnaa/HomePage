@@ -14,11 +14,17 @@ export const help = async (args: string[]): Promise<string> => {
       c += Object.keys(bin).sort()[i - 1] + '\n';
     }
   }
-  return `Welcome! Here are all the available commands:
+  return `
+I am ${config.name} Welcome to my website!
+More about me:
+'sumfetch' - short summary.
+'resume' - my latest resume.
+'readme' - my github readme.
+
+Or type one of the available commands:
 \n${c}\n
 [tab]: trigger completion.
 [ctrl+l]/clear: clear terminal.\n
-Type 'sumfetch' to display summary.
 `;
 };
 
